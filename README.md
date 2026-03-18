@@ -1,4 +1,4 @@
-# Indonesian Peranakan Etawa Goat WGS Selection Analysis
+# Indonesian Peranakan Etawa Goat WGS Short read
 
 This repository contains curated scripts used for whole-genome sequencing (WGS) data analysis of Indonesian Peranakan Etawa (PE) goats, focusing on population structure, runs of homozygosity (ROH), weighted FST, integrative ROH–FST overlap, functional annotation, and final visualization.
 
